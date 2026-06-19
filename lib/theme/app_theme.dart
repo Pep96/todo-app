@@ -18,7 +18,7 @@ class AppTheme {
         floatingActionButtonTheme: const FloatingActionButtonThemeData(
           elevation: 4,
         ),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           elevation: 2,
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
         ),
@@ -42,7 +42,7 @@ class AppTheme {
         floatingActionButtonTheme: const FloatingActionButtonThemeData(
           elevation: 4,
         ),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           elevation: 2,
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
         ),
